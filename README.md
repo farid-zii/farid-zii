@@ -1,8 +1,8 @@
  Hi, I'm Farid-zii
- I'm interested in Software Engineering and Cloud Engineering 
- I'm currently learning Front-End Web Development Learning Path
- I'm looking to collaborate on Movie Catalogue project
- How to reach me on 
+ - I'm interested in Software Engineering and Cloud Engineering 
+ - I'm currently learning Front-End Web Development Learning Path
+ - I'm looking to collaborate on Movie Catalogue project
+ - How to reach me on 
 <a href="https://www.instagram.com/alfrdzi_fnda/" target="_blank">Instagram</a>, 
  
 <!---
